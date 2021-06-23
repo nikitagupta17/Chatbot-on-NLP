@@ -1,5 +1,5 @@
 # Chatbot-on-NLP
-Machine learning model to create chatbot using NLP.
+Machine learning model to create chatbot using NLP, this is basically on QnA based.
 
 -Used nltk framework of NLP
 
